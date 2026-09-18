@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beuty-room-live/static/css/main.e5199de3.css",
-    "main.js": "/beuty-room-live/static/js/main.b758cc9e.js",
+    "main.js": "/beuty-room-live/static/js/main.eacee9c3.js",
     "index.html": "/beuty-room-live/index.html",
     "main.e5199de3.css.map": "/beuty-room-live/static/css/main.e5199de3.css.map",
-    "main.b758cc9e.js.map": "/beuty-room-live/static/js/main.b758cc9e.js.map"
+    "main.eacee9c3.js.map": "/beuty-room-live/static/js/main.eacee9c3.js.map"
   },
   "entrypoints": [
     "static/css/main.e5199de3.css",
-    "static/js/main.b758cc9e.js"
+    "static/js/main.eacee9c3.js"
   ]
 }
